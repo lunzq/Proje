@@ -1,0 +1,10 @@
+requests
+deep_translator
+python-dotenv
+transformers
+opencv-python
+mediapipe
+fer
+dlib
+pandas
+moviepy
